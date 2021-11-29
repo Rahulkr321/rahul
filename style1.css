@@ -1,0 +1,202 @@
+body{
+    background : none;
+    margin:0;
+    }
+#mainarea{
+    background : none;
+    width : 1200px;
+    margin:0 auto;
+    }
+#toparea1{
+    background : rgb(207, 184, 207);
+    width : 1200px;
+    height : 150px;
+    }
+#logoarea{
+    background : red;
+    width : 150px;
+    height : 150px;
+    float: left;
+    }
+#titlearea{
+    background : #0er;
+    width : 1050px;														
+    height : 150px;
+    float: left;
+    }
+    #titlearea ul{
+        float:right;
+        margin-right: 50px;
+        
+    }
+    #titlearea ul li{
+        list-style-type: none;
+        padding-top: 2px;
+    }
+    #titlearea ul li a:link,a:active{
+        text-decoration: none;
+    }
+
+    
+
+#toparea2{
+    background : none;
+    width : 1200px;
+    height : 40px;
+    }
+ /*
+#toparea2 ul{
+    display:f;
+    margin:0;
+    padding:0;
+    float:left;
+}*/
+#toparea2 ul li {
+    list-style-type:none;
+    font-size:1.2rem;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    font-weight: bolder;
+}
+#toparea2 ul li a:link{
+    list-style-type:none;
+    display:block;
+    border-radius:5px;
+    text-decoration:none;
+    margin-top:-15px;
+    color:black;
+    margin-left: 50px;
+}
+#toparea2 ul li a:hover{
+    color:red;
+    background:white;
+}
+
+#toparea3{
+    background: url('biker-407123_1280.webp');
+    background-position: center center;
+    width : 100%;
+    height : 500px;
+    float:left;
+    }
+    .heading{
+        z-index: 1000;
+        color: #99f;
+    }
+    #toparea3 h1{
+        text-align: center;
+        margin-top: 100px;
+        justify-content: center;
+        text-shadow:2px 2px 2px white;
+    }
+    #toparea3 p{
+        text-align: center;
+        justify-content: center;
+        color: white;
+    }
+
+#toparea4{
+    background :lightblue;
+    width : 1200px;
+    height : 450px;
+display: inline-block;    }
+    #p1{
+    background:black;
+    width:400px;
+    height:200px;
+    margin:50px 37.5px 50px 35px;
+    float:left;
+    }
+    .p2{
+    background:black;
+    width:300px;
+    height:200px;
+    margin:50px 20px;
+    float:left;
+    }
+    .btn:hover{
+        background-color: yellow;
+        cursor: pointer;
+    }
+   
+#toparea4 h3{
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+    
+#toparea5{
+    background : url('1.gif') no-repeat center center;
+    background-color: black;
+    width : 1200px;
+    height : 400px;
+    }
+#toparea6{
+    background : none;
+    width : 1200px;
+    height : 1300px;
+    }
+#sixth1{
+    background : none;
+    width : 600px;
+    height : 410px;
+    display: block;
+    float: left;
+    position: relative;
+    padding: 10px 5px 5px 5px;
+    }
+    #sixth1 h1{
+        padding-top: 170px;
+        padding-left: 80px;
+    }
+#sixth2{
+    width : 600px;
+    height : 410px;
+    display: block;
+    float: left;
+    position: relative;
+    left: 600px;
+    z-index: 100;
+    padding: 10px 5px 5px 5px;
+
+    }
+#sixth3{
+    width : 600px;
+    height : 410px;
+    display: block;
+    float: left;
+    position: relative;
+    padding: 10px 5px 5px 5px;
+
+    }
+    .sixth{
+        background :#fff;
+        width : 590px;
+        height : 410px;
+        display:block;
+        float: left;
+         }
+         .sixth h1{
+                padding-top: 170px;
+                padding-left: 30px;
+         }
+#toparea7{
+    width: 1200px;
+    height: 600px;
+    background-color: yellowgreen;
+}
+.text{
+    text-align: center;
+    justify-content: center;
+    text-shadow:2px 2px 2px white;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border: 2px solid red;
+    margin-left:20px;
+    margin-top: 20px;
+}
+  
